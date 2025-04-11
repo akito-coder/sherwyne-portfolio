@@ -1,6 +1,6 @@
 {
   "name": "tangalin",
-  "homepage":"https//akito-code.github.io/sherwyne.portfolio", 
+  "homepage": "https//akito-code.github.io/sherwyne-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"   
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.3",
